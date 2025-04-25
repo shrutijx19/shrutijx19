@@ -15,9 +15,9 @@
 ## 🧠 ABOUT ME
 
 ```txt
-Final-year Computer Engineering student at FCRIT, Mumbai University.
+Final-year Computer Engineering student at Mumbai University.
 Passionate about building intelligent systems using AI & ML.
-Special interest in Natural Language Processing and Research.
+Special interest in development and Research.
 ```
 
 ---
@@ -80,14 +80,3 @@ Tools      : Git, Firebase, PowerBI, phpMyAdmin, Google Colab, VS Code
 Reading · Dancing · Trekking · Drawing · Evening Walks · Illustrating
 ```
 
----
-
-## 🌐 LANGUAGES
-
-```txt
-English | Hindi | Marathi | German (Elementary)
-```
-
----
-
-_This README was crafted with a love for minimalism and retro aesthetics._
