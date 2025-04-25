@@ -2,7 +2,6 @@
 # ⌨️ SHRUTI JHA
 
 
---
 
 ## 🧠 ABOUT ME
 
