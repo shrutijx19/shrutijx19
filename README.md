@@ -13,6 +13,16 @@ Special interest in development and Research.
 
 ---
 
+## 👩‍🎓 CURRENTLY LEARNING 
+
+```txt
+🔹 System Design Principles  
+🔹 Deep Learning with PyTorch  
+🔹 Open Source Contributions (Git, GitHub, Issue Tracking)  
+🔹 Backend Development with FastAPI  
+```
+---
+
 ## ⚙️ TECH STACK
 
 ```txt
