@@ -6,9 +6,9 @@
 ## 🧠 ABOUT ME
 
 ```txt
-Final-year Computer Engineering student at Mumbai University.
+Graduate in Computer Engineering from Mumbai University.
 Passionate about building intelligent systems using AI & ML.
-Special interest in development and Research.
+Special interest in mobile development and Research.
 ```
 
 ---
